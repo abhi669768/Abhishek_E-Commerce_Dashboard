@@ -59,5 +59,5 @@ To deliver an intuitive, interactive platform enabling stakeholders to quickly a
 
 ### 6.	Screenshots / Demos
 
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/abhi669768/Abhishek_E-Commerce_Dashboard/blob/main/Abhishek_E-Commerce.png)
 # Abhishek_E-Commerce_Dashboard
